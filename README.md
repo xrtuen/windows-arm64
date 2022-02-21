@@ -1,5 +1,6 @@
 # Resources for Windows 10/11 on ARM64
-## Most items found here are experimental and in some cases may work better in Windows 11.
+## Most items found here are experimental, tool viability can change quickly.
+## Take a moment and do your own search for more up to date options.
 
 ### VS Build Tools
 Microsoft offers ARM64 builds for command line utilities, you may still be required to install the x86 versions to run in emulation mode for some packages to work correctly.
