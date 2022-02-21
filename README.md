@@ -22,12 +22,12 @@ Microsoft's OpenJDK builds appear to be the only working implementation at the m
 This is the IDE of choice as the full Visual Studio IDE does not have a native ARM64 build and would run very slowly in x86 emulation mode, if it runs at all.
 - [Visual Studio Code Download Page](https://code.visualstudio.com/#alt-downloads)
 
-### PyCharm
+### PyCharm/IDEA
 As of Feb 2022 this is possible but you won't have full functionality, it appears the JetBrains runtime is not yet viable on ARM64.  You can read the method yourself in the ticket [here](https://youtrack.jetbrains.com/issue/JBR-2074) but I'll write out the method as well.  I would highly suggest VSCode as an IDE instead for the time being.
 - Install Microsoft's OpenJDK, make sure JAVA_HOME is set in your PATH.
-- Install [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows).
-- Delete the 'jbr' directory from PyCharm's installation folder.
-- Add --illegal-access=warn to idea.bat on the next line after the line containing %JAVA_EXE% near the bottom.
-- Delete runnerw64.exe from the 'bin' directory in PyCharm's installation folder.
+- Install [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)/[IDEA](https://www.jetbrains.com/idea/download/#section=windows).
+- Delete the 'jbr' directory from PyCharm/IDEA's installation folder.
+- Add --illegal-access=warn to pycharm.bat/idea.bat on the next line after the line containing %JAVA_EXE% near the bottom.
+- Delete runnerw64.exe from the 'bin' directory in PyCharm/IDEA's installation folder.
 
-You should be able to run PyCharm with multiple warnings via pycharm.bat in PyCharm's installation folder.
+You should be able to run PyCharm/IDEA with multiple warnings via pycharm.bat/idea.bat in the installation folder.
