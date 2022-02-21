@@ -29,4 +29,5 @@ As of Feb 2022 this is possible but you won't have full functionality, it appear
 - Delete the 'jbr' directory from PyCharm's installation folder.
 - Add --illegal-access=warn to idea.bat on the next line after the line containing %JAVA_EXE% near the bottom.
 - Delete runnerw64.exe from the 'bin' directory in PyCharm's installation folder.
+
 You should be able to run PyCharm with multiple warnings via pycharm.bat in PyCharm's installation folder.
