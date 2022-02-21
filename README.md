@@ -15,7 +15,7 @@ Python 3, support for ARM64 was just added and installer builds are popping up f
 - [Python 3.11.0a5 Installer - Download Page](https://www.python.org/downloads/release/python-3110a5/) (Feb 3, 2022)
 
 ### Java
-Microsoft's OpenJDK builds appear to be the only working implementation at the moment.  JetBrains is working quickly as far as I can tell but they aren't quite there yet (Feb 2022).
+Microsoft's OpenJDK builds appear to be the only working implementation at the moment. (Feb 2022)
 - [Microsoft's OpenJDK Download Page](https://docs.microsoft.com/en-us/java/openjdk/download)
 
 ### Visual Studio Code
