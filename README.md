@@ -10,7 +10,7 @@ Compiling OpenSSL requires NASM, an x86 assembler, which as you might guess is r
 - [OpenSSL Installer - Download Page](https://slproweb.com/products/Win32OpenSSL.html)
 
 ### Python 3
-Python 3, support for ARM64 was just added and installer builds are popping up for prerelease builds.  You may want to check the official site's windows pre-releases to see if there is a more up to date version available than the one listed here.
+Python 3, support for ARM64 was just added and installer builds are popping up for pre-release builds.  You may want to check the official site's windows pre-releases to see if there is a more up to date version available than the one listed here.
 - [Python Windows Download Page](https://www.python.org/downloads/windows/)
 - [Python 3.11.0a5 Installer - Download Page](https://www.python.org/downloads/release/python-3110a5/) (Feb 3, 2022)
 - 
