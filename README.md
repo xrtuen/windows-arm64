@@ -7,7 +7,6 @@ Microsoft offers ARM64 builds for command line utilities, you may still be requi
 - [VS Build Tools - Direct Link](https://aka.ms/vs/17/release/vs_BuildTools.exe)
 
 ### OpenSSL
-Compiling OpenSSL requires NASM, an x86 assembler, which as you might guess is rather frustrating on an ARM64 architecture.  At the moment this installer is an actual rainbow unicorn.
 - [OpenSSL Installer - Download Page](https://slproweb.com/products/Win32OpenSSL.html)
 
 ### Python 3
