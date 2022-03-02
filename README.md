@@ -19,7 +19,7 @@ Microsoft's OpenJDK builds appear to be the only working implementation at the m
 - [Microsoft's OpenJDK Download Page](https://docs.microsoft.com/en-us/java/openjdk/download)
 
 ### .NET
-- [.NET 5.0 Download Page](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+- [.NET 6.0 Download Page](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 ### Visual Studio Code
 This is the IDE of choice as the full Visual Studio IDE does not have a native ARM64 build and would run very slowly in x86 emulation mode, if it runs at all.
