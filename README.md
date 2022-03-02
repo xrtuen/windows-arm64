@@ -19,7 +19,7 @@ Microsoft's OpenJDK builds appear to be the only working implementation at the m
 - [Microsoft's OpenJDK Download Page](https://docs.microsoft.com/en-us/java/openjdk/download)
 
 ### .NET
-The old .NET framework is gone and .NET core took it's place with .NET 5.0, so luckly there is support on ARM64.  Microsoft also recently completed a large amount of optimizations specifically for .NET 5.0 on ARM64.
+The old .NET framework is gone and .NET core took it's place with .NET 5.0, so luckily there is support on ARM64.  Microsoft also recently completed a large amount of optimizations specifically for .NET 5.0 on ARM64.
 - [.NET 5.0 Download Page](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 ### Visual Studio Code
