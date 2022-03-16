@@ -12,7 +12,7 @@ Microsoft offers ARM64 builds for command line utilities, you may still be requi
 ### Python 3
 Python 3, support for ARM64 was just added and installer builds are popping up for pre-release builds.  You may want to check the official site's windows pre-releases to see if there is a more up to date version available than the one listed here.  From personal experience there are MANY modules which will not build correctly on ARM64 right now and if there are many dependencies you can end up in an endless loop of dependency checks with pip3 install.
 - [Python Windows Download Page](https://www.python.org/downloads/windows/)
-- [Python 3.11.0a5 Installer - Download Page](https://www.python.org/downloads/release/python-3110a5/) (Feb 3, 2022)
+- [Python 3.11.0a6 Installer - Download Page](https://www.python.org/downloads/release/python-3110a6/) (Mar 16, 2022)
 
 ### Java
 Microsoft's OpenJDK builds appear to be the only working implementation at the moment. (Feb 2022)
