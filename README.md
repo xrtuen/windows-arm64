@@ -22,7 +22,7 @@ Microsoft's OpenJDK builds appear to be the only working implementation at the m
 - [.NET 6.0 Download Page](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 ### Visual Studio Code
-This is the IDE of choice as the full Visual Studio IDE does not have a native ARM64 build and would run very slowly in x86 emulation mode, if it runs at all.
+This is the IDE of choice as the full Visual Studio IDE does not have a native ARM64 build and would run very slowly and with a reduced feature set in x64 emulation mode.  Microsoft has stated on the [Visual Studio 2022 Roadmap](https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-roadmap#diagnostics) that ARM64 support is coming.
 - [Visual Studio Code Download Page](https://code.visualstudio.com/#alt-downloads)
 
 ### PyCharm/IDEA
@@ -36,5 +36,5 @@ As of Feb 2022 this is possible but you won't have full functionality, it appear
 You should be able to run PyCharm/IDEA with multiple warnings via pycharm.bat/idea.bat in the installation folder.
 
 ### OpenGL 3.3 + OpenCL 1.2
-Microsoft released a compatibility pack for ARM64 targetting systems that support DX12 but don't have OpenGL and OpenCL drivers installed by default.
+Microsoft released a compatibility pack targeting systems that support DX12 but don't have OpenGL and OpenCL drivers installed by default.
 - [OpenGL/OpenCL Compatibility Pack - Microsoft Store](https://www.microsoft.com/store/productId/9NQPSL29BFFF)
